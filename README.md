@@ -1,4 +1,6 @@
-# Wercker Kubuernetes Talk #
+# Wercker Kubernetes Talk #
+
+**Repos will made public after the talk**
 
 These are the files for the Wercker + Kubernetes Talk
 
