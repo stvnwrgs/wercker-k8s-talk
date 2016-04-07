@@ -32,7 +32,7 @@ The goal is to spin up the following microservices:
 3. redis-slave
 
 #### emitter ####
-[wercker-k8s-talk-emitter](https://github.com/stvnwrgs/wercker-k8s-talk-emitter)
+[wercker-k8s-talk-producer](https://github.com/stvnwrgs/wercker-k8s-talk-producer)
 
 #### persister ####
 [wercker-k8s-talk-persister](https://github.com/stvnwrgs/wercker-k8s-talk-persister)
